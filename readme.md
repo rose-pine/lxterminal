@@ -15,7 +15,7 @@
 
 1. Create a backup of your existing LXTerminal config file present at `~/.config/lxterminal/lxterminal.conf`.
 2. Browse to the `[general]` section in your active `lxterminal.conf` file and delete the lines corresponding to the color settings, starting from `bgcolor` to `color_preset`.
-3. Browse to the file for your choice of flavor (named as `Rose-Pine.conf`, `Rose-Pine-Dawn.conf` or `Rose-Pine-Moon.conf`) inside the `src` folder.
+3. Browse to the file for your choice of flavor (named as `rose-pine.conf`, `rose-pine-dawn.conf` or `rose-pine-moon.conf`) inside the `src` folder.
 4. Copy the contents of this file and paste them in your active `lxterminal.conf` file.
 5. Restart LXTerminal to apply the changes.
 
